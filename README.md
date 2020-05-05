@@ -5,6 +5,8 @@ WiFi and battery inside a normal gas knob, so user will not need to change the u
 This knob combined AVR processor and WiFi module, and used G-sensor to know state of knob.
 
 <center><img src="https://raw.githubusercontent.com/TripleC-Light/Gas-alert-knob/master/view.42.jpg" width=600></center>
+<center><img src="https://github.com/TripleC-Light/Gas-alert-knob/blob/master/PCB_%E6%AD%A3%E9%9D%A2.JPG?raw=true" width=600></center>
+<center><img src="https://github.com/TripleC-Light/Gas-alert-knob/blob/master/PCB_%E8%83%8C%E9%9D%A2.JPG?raw=true" width=600></center>
 
 ## About Me
  - My Blog : [愛德華空想科學誌](https://triplec-light.000webhostapp.com)
