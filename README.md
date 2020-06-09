@@ -1,5 +1,5 @@
 ## What is Gas Alert Knob?
-This knob will warn user by LINE messenger when elderly forget turning off gas burner, 
+This knob will warn user by sending LINE messenger and makeing phone call when elderly forget turning off gas burner, 
 it is still a prototype now, I integrated circuit, MCU, 
 WiFi and battery inside a normal gas knob, so user will not need to change the usage of gas knob. 
 This knob combined AVR processor and WiFi module, and used G-sensor to know state of knob.
